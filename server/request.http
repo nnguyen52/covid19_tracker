@@ -1,0 +1,9 @@
+GET http://localhost:8080/api/ 
+
+###
+
+GET https://restcountries.eu/rest/v2/all?fields=region
+
+###
+
+GET https://disease.sh/v3/covid-19/all
