@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/SearchBox/searchbox.css"],"names":[],"mappings":"AAAA,iBACE,wBACF,CACA,WACE,aACF","file":"main.d2a972f3.chunk.css","sourcesContent":[".hoverLink:hover {\r\n  background-color: #212121;\r\n}\r\n.hoverLink {\r\n  color: #2ecc40;\r\n}\r\n"]}
